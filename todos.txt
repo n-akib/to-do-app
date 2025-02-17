@@ -1,0 +1,4 @@
+read books
+fix the bug
+add a new member
+have dinner
