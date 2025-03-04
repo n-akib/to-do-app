@@ -4,4 +4,3 @@ add a new member
 have dinner
 learn python
 in 2 weeks need to learn django
-we weee
